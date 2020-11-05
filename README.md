@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">Data Scientist, Machine Learning/ Deep Learning Research Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merveenoyan" alt="merveenoyan" /> </p>
+
+Skills: Python, Java, C, Arduino, Raspberry
+
 - 💻 I’m currently working on **Machine Learning, Deep Learning**
+
 - 🌱 I’m currently learning **OpenCV, PyTorch**
+
 - 🎥 I teach lectures about Machine Learning in Hacettepe AI Club [YouTube](https://www.youtube.com/watch?v=rDjuRkEEXlU&list=PLuG3KTJbiTEUq9OezwQJsaAzX59BGlPSV)
 - 💬 Ask me about **Machine Learning, Deep Learning**
 - 📫 How to reach me **bayhan2000@outlook.com**
