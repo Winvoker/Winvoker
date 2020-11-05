@@ -16,6 +16,6 @@ Skills: Python, Machine Learning, Deep Learning
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winvoker&layout=compact)
 
-
-[<p align="center"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/winvoker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/batuhanayhan/)
-<a href="https://kaggle.com/unofficialmerve" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="winvoker" height="40" width="40" /></a>
+<a href="https://github.com/winvoker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="winvoker" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/batuhanayhan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="winvoker" height="40" width="40" /></a>
+<a href="https://kaggle.com/winvoker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="winvoker" height="40" width="40" /></a>
