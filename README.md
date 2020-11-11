@@ -8,7 +8,7 @@ Skills: Python, Machine Learning, Deep Learning
 - 🌱 I’m currently learning **OpenCV, PyTorch**
 
 - 🎥 I teach lectures about Machine Learning in Hacettepe AI Club [YouTube](https://www.youtube.com/watch?v=rDjuRkEEXlU&list=PLuG3KTJbiTEUq9OezwQJsaAzX59BGlPSV)
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Ask me about **Python , Machine Learning, Deep Learning**
 
 - 📫 How to reach me **bayhan2000@outlook.com**
 
