@@ -6,7 +6,8 @@
 <a align="center" href="https://www.linkedin.com/in/abbascanguven/">
   <img align="center" alt="Batuhan Ayhan | LinkedIn" width="17px " src="https://i.stack.imgur.com/gVE0j.png" />
 </a>
-
+<br>
+</br>
 Skills: Python, Machine Learning, Deep Learning
 
 - 💻 I’m currently working on **Machine Learning, Deep Learning**
