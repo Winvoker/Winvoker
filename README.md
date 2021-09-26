@@ -8,7 +8,7 @@
 </a>
 <br>
 </br>
-Skills: Python,Natural Language Processing, Machine Learning, Deep Learning
+Skills: Python, Natural Language Processing, Machine Learning, Deep Learning
 
 - 💻 I’m currently working on **Machine Learning, Deep Learning**
 
