@@ -3,7 +3,7 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Winvoker" alt="Winvoker" /> </p>
 -->
-<a align="center" href="https://www.linkedin.com/in/abbascanguven/">
+<a align="center" href="https://www.linkedin.com/in/batuhanayhan/">
   <img align="center" alt="Batuhan Ayhan | LinkedIn" width="17px " src="https://i.stack.imgur.com/gVE0j.png" />
 </a>
 <br>
