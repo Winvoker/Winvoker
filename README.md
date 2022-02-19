@@ -12,7 +12,7 @@ Skills: Python, Computer Vision, Natural Language Processing, Machine Learning, 
 
 - 💻 I’m currently working on **Deep Learning, Computer Vision**
 
-- 🌱 I’m currently learning **AWS, MLOps**
+- 🌱 I’m currently learning **AWS**
 
 - 🎥 I teach lectures about Machine Learning in Hacettepe AI Club [ML](https://www.youtube.com/watch?v=rDjuRkEEXlU&list=PLuG3KTJbiTEUq9OezwQJsaAzX59BGlPSV) , [Python](https://www.youtube.com/watch?v=CDzpUf6W574&t=4116s)
 - 💬 Ask me about **Python , Machine Learning, Deep Learning**
