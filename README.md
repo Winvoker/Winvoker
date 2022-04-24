@@ -14,7 +14,7 @@ Skills: Python, Computer Vision, Natural Language Processing, Machine Learning, 
 
 - 🌱 I’m currently learning **AWS**
 
-- 🎥 I teach lectures about Machine Learning in Hacettepe AI Club [ML](https://www.youtube.com/watch?v=rDjuRkEEXlU&list=PLuG3KTJbiTEUq9OezwQJsaAzX59BGlPSV) , [Python](https://www.youtube.com/watch?v=CDzpUf6W574&t=4116s)
+- 🎥 I teach lectures about Deep Learning in Hacettepe AI Club [DL](https://www.youtube.com/watch?v=REbf3hT4vm0&t=) , [Python](https://www.youtube.com/watch?v=CDzpUf6W574&t)
 - 💬 Ask me about **Python , Machine Learning, Deep Learning**
 
 - 📫 How to reach me **bayhan2000@outlook.com**
