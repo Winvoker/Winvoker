@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">Machine Learning/ Deep Learning Engineer</h3>
+<h3 align="center">Deep Learning Engineer</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Winvoker" alt="Winvoker" /> </p>
 -->
