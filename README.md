@@ -17,8 +17,6 @@ Skills: Python, Computer Vision, Natural Language Processing, Machine Learning, 
 - 🎥 I teach lectures about Deep Learning in Hacettepe AI Club [DL](https://www.youtube.com/watch?v=REbf3hT4vm0&t=) , [Python](https://www.youtube.com/watch?v=CDzpUf6W574&t)
 - 💬 Ask me about **Python , NLP , Deep Learning**
 
-- 📫 How to reach me **bayhan2000@outlook.com**
-
 <div align="center">
 
 [![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winvoker&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
