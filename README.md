@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">Deep Learning Engineer</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Winvoker" alt="Winvoker" /> </p>
 -->
@@ -9,10 +8,6 @@
 <br>
 </br>
 Skills: Python, Computer Vision, Natural Language Processing, Machine Learning, Deep Learning
-
-- 💻 I’m currently working on **Deep Learning, Computer Vision**
-
-- 🌱 I’m currently learning **AWS**
 
 - 🎥 I teach lectures about Python, Deep Learning [link](https://docs.google.com/spreadsheets/d/1XASQCBeBhGp5ZiGQAvBHBviMdrPTQgrGYqgvRigos9Y/edit#gid=0)
 - 💬 Ask me about **Python , NLP , Deep Learning**
